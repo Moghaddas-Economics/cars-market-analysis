@@ -1,0 +1,9 @@
+Feature,Importance,Direction
+power_hp,0.75943863,Positive
+cylinders_volume_cc,0.0867324,Positive
+brand_premium,0.047199596,Positive
+weight_kg,0.04256146,Positive
+vehicle_age,0.029340884,Negative
+mileage_km,0.021990493,Negative
+nr_doors,0.012736586,Negative
+power_kw,0.0,Positive
