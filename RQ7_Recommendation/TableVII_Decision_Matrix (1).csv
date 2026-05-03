@@ -1,0 +1,8 @@
+,Linear Regression,Random Forest,XGBoost
+Predictive Performance,1,5,5
+Interpretability,5,3,3
+Training Speed,5,4,3
+Non-linear Handling,1,5,5
+Robustness,2,4,5
+Deployment Suitability,5,4,4
+Total Score,19,25,25
