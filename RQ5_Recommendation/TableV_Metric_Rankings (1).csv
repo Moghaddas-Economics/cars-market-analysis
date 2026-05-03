@@ -1,0 +1,5 @@
+Model,Rank_MAE,Rank_RMSE,Rank_R2,Rank_MAPE
+Random Forest,1,1,1,1
+XGBoost,2,2,2,2
+Decision Tree,3,3,3,3
+Linear Regression,4,4,4,4
